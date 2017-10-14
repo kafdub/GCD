@@ -135,5 +135,3 @@ downloaded 59.7 MB
 > newData<-newData[order(newData$subject,newData$activity),]
 > write.table(newData, file = "tidydata.txt",row.name=FALSE,quote = FALSE, sep = '\t')
 > 
-> save.image("C:\\Users\\kafil\\Desktop\\DataScience\\3_Getting and Cleaning Data\\GCD2")
-> 
