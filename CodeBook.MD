@@ -124,3 +124,4 @@ provided in the file "abbreviations_info.md".
 77 fBodyGyroJerkMagmean
 78 fBodyGyroJerkMagstd
 79 fBodyGyroJerkMagmeanFreq
+
